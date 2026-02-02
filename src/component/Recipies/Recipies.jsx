@@ -20,3 +20,6 @@ export function Recipies({ name, time, servings, calories, difficulty, image }) 
     </Container>
   );
 }
+
+
+//1
